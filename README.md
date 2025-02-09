@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Manik Gupta
 
-<!--
-**isthatmanik/isthatmanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀 I'm a **Data Analyst** with a key interest in uncovering insights from data, crafting compelling dashboards, and solving complex problems with data-driven solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 🔭 Currently working on presentation and communication skills.  
+- 🎯 Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **Advanced Excel**.  
+- 🎨 Creating visually stunning and insightful **dashboards** is my forte. 
+- 💼 Aspiring to grow as a **Data Analyst**.  
+- 🌍 Based in **Jammu, India**.
+
+---
+
+## 🛠️ Tools & Technologies  
+
+- **Languages**: Python, SQL  
+- **Data Visualization**: Power BI, Tableau, Excel  
+- **EDA & Analytics**: Pandas, NumPy, Matplotlib, Seaborn  
