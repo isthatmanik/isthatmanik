@@ -18,4 +18,19 @@ Welcome to my GitHub profile! 🚀 I'm a **Data Analyst** with a key interest in
 
 - **Languages**: Python, SQL  
 - **Data Visualization**: Power BI, Tableau, Excel  
-- **EDA & Analytics**: Pandas, NumPy, Matplotlib, Seaborn  
+- **EDA & Analytics**: Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+## 📣 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/isthatmanik/)
+- ✉️ **Email**: [manik.gupta0210@gmail.com](mailto:manik.gupta0210@gmail.com)  
+
+---
+
+### 🌟 Fun Fact  
+
+Love watching cricket, theatre enthusiast and writing scripts in my free time.
+
+---
